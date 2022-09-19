@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1642668833 source:c:\programmation\mon_projet\gui_wx\park_ecran\src\gestionnaire.cpp
+	"Gestionnaire.h"
+	"Application.h"
+
+1643223372 c:\programmation\mon_projet\gui_wx\park_ecran\include\gestionnaire.h
+	"Application.h"
+	"Clients.h"
+
+1643533086 c:\programmation\mon_projet\gui_wx\park_ecran\include\application.h
+	<vector>
+	<map>
+	<string>
+	<cstring>
+
+1643532996 c:\programmation\mon_projet\gui_wx\park_ecran\include\clients.h
+	<string>
+	<cstring>
+	"Application.h"
+	"Vehicule.h"
+	<ctime>
+
+1643495578 c:\programmation\mon_projet\gui_wx\park_ecran\include\vehicule.h
+	<string>
+
+1643532961 source:c:\programmation\mon_projet\gui_wx\park_ecran\src\vehicule.cpp
+	"Vehicule.h"
+	<string>
+
+1643705308 source:c:\programmation\mon_projet\gui_wx\park_ecran\main.cpp
+	<iostream>
+	"Application.h"
+	"Clients.h"
+	"Gestionnaire.h"
+	"Vehicule.h"
+	<cstdio>
+	<cstdlib>
+	<string>
+
+1643722711 source:c:\programmation\mon_projet\gui_wx\park_ecran\src\application.cpp
+	"Application.h"
+	<vector>
+	<map>
+	<iostream>
+	<fstream>
+	<string>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+
+1643720782 source:c:\programmation\mon_projet\gui_wx\park_ecran\src\clients.cpp
+	"Clients.h"
+	<ctime>
+	<time.h>
+	<string>
+	<cstring>
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	"Application.h"
+	"Vehicule.h"
+
